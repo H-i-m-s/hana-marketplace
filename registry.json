@@ -1,4 +1,6 @@
 {
   "schemaVersion": 1,
-  "entries": []
+  "entries": [
+    { "kind": "app", "id": "doc-intake", "repository": "H-i-m-s/doc-intake", "publisher": "H-i-m-s" }
+  ]
 }
