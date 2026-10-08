@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "tag": "v0.5.1",
       "sha256": "3adaf99b1c28756b22fbdf1e1554e8b7e0a39ab2f4b132c81197d7307ba311c0"
+    },
+    {
+      "kind": "app",
+      "id": "office-toolkit",
+      "tag": "v0.7.0",
+      "sha256": "96e27ca8fd6748b6d15a68011aed6fefa13fd71ca967893315350791f76eeb35"
     }
   ]
 }

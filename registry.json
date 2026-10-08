@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "repository": "hayou2002/hana-vibecoding",
       "publisher": "hayou2002"
+    },
+    {
+      "kind": "app",
+      "id": "office-toolkit",
+      "repository": "zhang8019/hana-office-toolkit",
+      "publisher": "元一"
     }
   ]
 }
