@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "repository": "hayou2002/hana-vibecoding",
       "publisher": "hayou2002"
+    },
+    {
+      "kind": "app",
+      "id": "hana-vault",
+      "repository": "zhang8019/hana-vault-app",
+      "publisher": "元一"
     }
   ]
 }
