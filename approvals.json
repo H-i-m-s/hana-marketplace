@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "tag": "v0.5.1",
       "sha256": "3adaf99b1c28756b22fbdf1e1554e8b7e0a39ab2f4b132c81197d7307ba311c0"
+    },
+    {
+      "kind": "app",
+      "id": "agent-model-plan",
+      "tag": "v1.2.0",
+      "sha256": "3d7d6eb679c55380598129dcf4398056a7fed817fa0c078c4913c3540e2e8b80"
     }
   ]
 }
