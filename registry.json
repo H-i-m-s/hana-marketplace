@@ -132,6 +132,270 @@
       "id": "hana-vibecoding",
       "repository": "hayou2002/hana-vibecoding",
       "publisher": "hayou2002"
+    },
+    {
+      "kind": "connector",
+      "id": "context7",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "microsoft-learn",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "aws-knowledge",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "cloudflare-docs",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "huggingface",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "exa",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "jina",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "notion",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "linear",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "sentry",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "stripe",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "supabase",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "vercel",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "figma",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "paypal",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "neon",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "netlify",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "webflow",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "wix",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "intercom",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "square",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "monday",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "cloudflare-bindings",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "cloudflare-observability",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "prisma",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "jam",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "miro",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "clickup",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "todoist",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "gitlab",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "dropbox",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "apify",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "postman",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "mapbox",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "semgrep",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "github",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "tencent-docs",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "edgeone-pages",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "gitee",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "bailian-amap",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "bailian-websearch",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "zhipu-websearch",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "zhipu-webreader",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "zhipu-zread",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
     }
   ]
 }
