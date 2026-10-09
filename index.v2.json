@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "sourceId": "official-global",
   "name": "Hana Global Market",
-  "publishedAt": "2026-10-09T20:25:01.770Z",
+  "publishedAt": "2026-10-09T20:29:31.172Z",
   "items": [
     {
       "kind": "app",
@@ -44,7 +44,7 @@
       "repository": "https://github.com/Codemaker997/agent-model-plan",
       "readmeUrl": "https://raw.githubusercontent.com/Codemaker997/agent-model-plan/v1.2.0/README.md",
       "stats": {
-        "downloads": 1
+        "downloads": 3
       }
     },
     {
@@ -105,7 +105,7 @@
       ],
       "readmeUrl": "https://raw.githubusercontent.com/youyongdemao/HanaAgent-answer-choice/v0.1.3/README.md",
       "stats": {
-        "downloads": 253
+        "downloads": 256
       }
     },
     {
@@ -161,6 +161,46 @@
       "readmeUrl": "https://raw.githubusercontent.com/moononnn/hanako-biaoqingbao-app/v0.1.41/README.md",
       "stats": {
         "downloads": 90
+      }
+    },
+    {
+      "kind": "app",
+      "id": "bookmate",
+      "name": "书友 · AI 陪伴阅读",
+      "publisher": "XuJC",
+      "description": "EPUB 沉浸式阅读与书友式章节对话。陪伴阅读、反思阅读、跨章节记忆。",
+      "version": "1.2.4",
+      "permissions": [
+        {
+          "capability": "app/process.spawn"
+        },
+        {
+          "capability": "app/resources.read"
+        },
+        {
+          "capability": "app/resources.write"
+        },
+        {
+          "capability": "app/tools.expose-to-model"
+        },
+        {
+          "capability": "app/models.infer"
+        }
+      ],
+      "compatibility": {
+        "minAppVersion": "1.0.0-beta"
+      },
+      "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAAsTAAALEwEAmpwYAAAdFElEQVR4nO1daXgUVdptP2e+H+NI3U6o6tRNiCGyh32VRcREEEIAQREZHAV1VPBTRJRFh80NBDdwGRSFUQcRxI0dRQRlk33VQWWXcWHRcVYHx/s9b4V0OixJd6e63rrdp57n/NFQXXXqnFO37vLeQEDP49wss0qNzKrBQmkZd9mmmCotscQ2jbW2aWyXpthjW+K4bYofpSUUAA7i1YBtih9JS46mTGM7aaxYa6Q54y7SYDWzyoWkSW5TJO2RlpZWRYZEN9sUj9uW2Axjw9B+C3W7+GWzyTbFYzIkikiz3L7R+si0RENpGQ/bplgnLfET9wMGwIGMjYMTjnZN46EsK9iA209aHFlZVdJsy7hZWsYqGA6GSyoNmMYu2zSGm6aZwe0z3x3SMi6zLWMhpSb7gwLAgZVQDk4Ua90oCKT4cU7xd73TqQLRgYOU04Btic2ZptGbvBBIoeMcGarSx+mt98FDAMCBZA8CY2tKBIFMP7+2bYr3uAkHwIE/NWB8GAoF6weS7bBt+1e2aYzF8B23wAANODghLWNyenr6+YFkOGhM1LaMQz4gFgAH2mjANo2DmVWDXQMaH7+gt760xH+5yQTAgaYa+JlaA/XqBf43oNNh28Fs2zTW+IBAABwkgwY2WJaRG9DhsC3jCtsS3/mANAAcJI0GbFqPYInuAT8f0hS3ocnPLxYgqT8J7gr48aBpjj4gCAAHqaCBCQEfHeeeXI7LTQoADlJGA7YlZlBHO7/5LTGHmwwAHKSiBmxLzOasQ3CONMXz3CQA4CClNWCK51jcT+uc2W8eAAfQgLJNY5zH5heDQDzMBw0I33BgW2KwZ+P8GOrjf+AAOJBlOfgvLa/3YIafOAbxQXzQgPDlZKFQyMhJiPmbBQK/xPRe/ocMgANZXgiY4uOErB2QpngC4oP4oAHhew5sS0x01/wh0a14GiL/zQHgABoQFXHwM+1X4FoxD2ka+0E6jAcNCK3qCZim+evKB4ApHuW+GQAcQAMiDg6M8ZUyfygUzLMt8R+QDwNCA0I7DqgEX0ZGWt14/X+ObYoPuG8CAAfQgKgEB8bKuKoNU+luEA/zQQNCew4yTKNXHG9/1O3nfnAAOJAucGBbYktMrQDbEj0gPogPGhBJw0FMw4K2ZazmvmAAHEADwjUOaAu+qDfqBPEwHzQgko6DzJBxaTRv/4V+uFgAHEADwlUObNOYX675Leu8ELbohvFgPJGsHJwgj5fX/B/qg4sEwAE0YDEUDqFtiiE+iA8aEMnMwcYzmp+2JfbBxQHgABqwEstBlhVscHrzH0U+ITyEj0oFDmzTuP/05r8pPua+MAAcQAMi8QFgGavLmD83GDSkJX4C+TAgNCBSgYMTaWlpVU6t+MN9UQA4gAYshqnBtikeh/ggPmhApAwHtiUmRQz/ic3cFwSAA2hAsAwH0u6+/wb5MCA0IFKGA/K8s7FollmlBvfFAOAAGhCecxAKGdUDmVWDXUE+DAgNiJTjIMMMdqb5/3dxXwgADqABwbMugPYXB/kwIDQgUo4D2zKeDUhLLOG+EAAcQAOCgQNjUYBKBYF8GBAaECnIgbGKFgHt4L8QABxAA9JjDmzT2EYBgH3/ID4EkJWCHJhiL00DPsZ+IQA4gAYUQwAcoQD4EeTDgNCASM3ZgNwXAYADaECwcYAAgAFhQCt1OUAA+OAhAOBAIgAgAgQBNCDRAoAIEATQgMQnAESAIIAGJPoAIAIEATQg0QkIESAIoAGMAkAECAJoQGEYECJAEEADCvMAIAIEATSgMBEIIkAQQAMKMwEhAgQBNKAwFRgiQBBAAwprASACBAE0oLAYCCJgD4LcrHRV/8KQapmXpS5pkqMK29RQV11aR13Xub66tUdjNbh3MwcDezZRfQrqqhb1MlVWKMh+3TKJgdWAPngIOiEzFFQ1s03VqJatLqpfTRU0z1Hd2tZ0DDugsIEa1KuJurtvSzWmfxs14db2asrgfPXCsE5q5qhC9dqYrjHjjyM7qyFXN1dNa0v2e5dJCARAiiI7I03VzjEdY7VrlK06tsxVPdrXUn075qmbujVSt1/ZTA3v10qNu6GNmjTwEvXMkAI1Y8TlcZnYDcwa3VWNur61qptrsXMnkwgIAM1xgZ2m6lS3So3cIld1v7iWuqagnhrQtaG6rWdT5408un8bNf6W9urJO/LVtHs6OYbiMnNlQC2CojY12HmXSQIEgE9Qo1pV1bBmcbM6v3mOI/Le+XXU9V0aON/EQ69poUb1b+2YePLgfDVtWEc1c1QXdkNy4Tcd89ifmUwCIABcJjQ3M101qWWrtg2rhd/GfS+rp24saug0q4f1a6XGDmirJg5sr56+M19NZ2xW6wxqwVzZoQ67gaTmQABUksDqmemqe7ua6t5rWzlNa25jpBJmjS5UFzfOZjeR1BgIgDiJy7aDzjc2Z8cY0NUZZaAOTW4jSU2BAIiDtPaNL1BPDc6HAX0SQv0LG7AbSWoKBECMhNHEFWp6coseKOWA+lFyJFoBEgGQ2LTs1ylP2+GzZEdRWwwNSgRA4szfuXUNdpEDZ+dgRL9W7M1pqSHwCRAFSfWqh9DZ5/MAem5oR3YzSQ2BAIiCJJpFxy1woGIOaEiW21BSMyAAKiCoWR2J735NAqhxbZvdUFIzIAAqIGhonxbswgai44BmX3IbSmoGBEA55NBadFp8AgPqEUI09ZrbUFIzIADKIYcKV3CLGoiegx4X12I3lNQMCIByyLm6oC4MqFEI0aIrbkNJzYAAKIccWobLLWogeg5oxSW3oaRmQACUQw6VooIB9QkhWm7NbSipGRAA5ZBzR+9m7KIGoueAai1wG0pqBgRAOeRQpVoYUJ8QokIr3IaSmgEBUA45VK6aW9RA9BxQlSVuQ0nNgACoYOkvDKhPCFGJNW5DSc2AACiHHNq4glvUQGx1AbgNJTUDAqAccjo0zYEBNQohKtRCG5dwm0pqBARAOeRgJqB+oPLq3KaSGgEBUA45tI8dt6CB2DigvRW4TSU1AgKggs0sYUC9Qog2VuE2ldQICIByyMm0hHo1zk0tAR4O8ptVZzeV1AgIgAoIemF4cmz2Mf+JAWr924+pNyZczX4tiQT2DRQIADcTkjae4Ba1G5j32HXqX3/9i/rH8UNq35bF6sOZY9Tscd3Zr8tt0H6K3G9VqRHQAqiAINrjnlvUbmDOAz3Uv74/7IRACY4f3qXWzp0Q9Tk2zHtSbX/vRbXqtQfU4qduVrPHFrHf16mgzVS5TSU1AgKgAoLGJFFB0B+++bxMAPzwzRfqvWlDov73bz/aT21d+pz67vCnxf/+yB61f9u7asP8yWrB5BvZ748wqGcTdlNJjYAAqICgu/u2ZBe1W/hmz8aw+b/dt1nNf6J/XOeZc38P5xPiq8/WlAmUb/duUpsWPKXenvQbtnukbdS5TSU1AgKgAoIG9UqeoiAHd7wfNuvOD15x4ZxFThAcO7i9TBD84/hB9dnaN9T8x+MLmMpgVP/W7KaSGgEBUAFBAwobsBvXLZApS0z6+bo3XTvv6w9e4fQNnNrH8Lcje9XKV0Z5eo/jb8GKQIkAcC8h+yRRXcAdy2aEzblvyxLXz7/ipXudfoXIEKBQWPHKfZ7d4+TBWBEoEQDuBUC3tjXZjesW1r/zRNiYf/l0VUJ+g5r9xw6V/ST4/qs/O/0GXtzjtGHYIkwiANwLgILmybMi8KNXx4RNeWTf5oT9DoXAD1+XHXF49/nBntwjzdzM9MG3tdQE6AOogCCaW85tXLfw/otDw4b861e7E/pby2cMU//87svw730wY7hn94k9AgUCwK2EpNVl3MZ1C4ufGRg25D+/O+T04sd7rrVzx6slz95W7t9sWvC081vfHf5EzX2wl2f3mZcbYn+zSk2AFkAFBNXMNtmN6xbmPXZ9mWb5Gw/3jus870y6Vv3t6D7192MHnCAo72/fe2GIemuit/MCWtTLZDeW1AQIgCj2B6RKM9zmdQNvPHRVmQCY9/j1cZ3ni/XvlDkPDS/SUCD3/ZWgfZML2I0lNQECIAqSZoy4nF3U7qDImaRTYlz6JKD/Puf+7uqtiX3Vwik3OZ11K14eqVbPftAZNdi69Hm1a+Wf1Ocfv+VM+/1qd9nZf5GjCnMfutIH99hVdW5dg91YUhMgAKIg6ZkhBeyijgb0nf3Oo9eqxU/fopa9MNSZhEOLfTYumOLMAfjzqtllAoCG56gpfyZDh9cLHNnjDOt9/fk6dXDHcrVnwzvq049mlengI9A047ce6cvOAeHKDlgRKBEA7qXkpIGXsImZDLx92XQHO5ZNV5+uek19tmau2rt5sTr8yYfq270b1fd/+dRZ5ns2E//z+8POsNyR/VvV348eCP93eqPT4p4N7zzuvPFXvDRSLX3udrVw8o2OmctbLvyPY6VB8vm6tzzt5KsIv+2cx/5mlZoALYAoSBp3A9+KwAVP3nDamDr1qpP5KQR2r3ld7Vz+ktq86A/q4zcfVR+9OlYtn36PWvKH25wiIHMfvqrM+aipXnKedW9MjPu6qAOw5Dx+Mj/h5u6N2I0lNQECIAqShvdrxSpo+i6nufs01bayZqMpwCXG3bTw6fgDIKIlQZ2L3KaPxJ1XN2c3ltQECIAoSKJdZ7lFnYgFQfRJEXcAHNtf2gI4pZXBjXt/exG7saQmQABEQdKNRY3YRe0WaBlwiXH/vGpO3OeJ7Dz0W53Bh37Xjt1YUhMgAKIgqW/HPHZRu4UtS54LG3fvxoWuBMCbj1zDfl+RePz/OrAbS2oCBEAUJF3Rvja7qN0CVQYuMe6XO1fEHwBH9obP4/VMv4owdehl7MaSmgABEAVJnVrmsovaLax67f7Ssfsv1sd9nh++LV33T7UCue8rEi/f14XdWFITIACiIKldo2x2UbuFD/44onQ48ctPKhEAe8LnoclH3Pd1KrIz0tjNJTUAAiAKkprWluyCdgtLp94eNi6N5ccdABGVf2iREfd9nYraOSa7uaQGQABEQRKJiVvQbmHBkwPKTCqKdxFP5OQkmnB0tr97YzzPCAGFNre5pAZAAERBEjUnuY3rFmjILjIA4v1+jwwACpUz/c2bE/o405S3Lpnq+X3SZxu3uaQGQABESRR1LHGb1w3MHtfNWRtQYt5FT90c13moolDJOWjtwJn+Zs/G+eG/+eLjt9XrD3i3ZJg6brnNJTUAAiBKomhoidu8biGyAy+WnYEiQSsJS0Pkd6f9f1pcdOqipMOffuTZikEauuU2l9QACIAoiaLJJdzGdQtHD24LmzKakt2vP9DTqQJE+wEum3aXs8w4MkT2bpzvvO0P7nxfffPFx+r4lzvLLDuOxNEDWz2ZOESTt7jNJTUAAiBKomh6KbdxKwuas08Ve2lbsMhqPpsXPeusKNy9eq7au2mR+nLXSmd9P606jFz2exoilhl/tXu1s7yYCofsWjnTWWZMYXDqvzmwfZkTKIm+V5q+zW0uqQEQAFESRQtMuA1cAuq5p/33qOldUsFn3dxHnM62nStecUxNW4CX1AtwjHyWN3LkkCD93defrXX+LZ2DzkXnDNcLeHmk83v0u/T7FW0vvnv166U1Cb475JyL+iC84IgWcHGbS2oABECURNES00SLdunUO9SeDfPCoDcq7edH1XioKg9V5ynPxDQ/n5rfX3+xXh3audxpmlMVIComQlWBqLgINd+pqV66InBGwu6HWgLhz4TNiz0NSVrCzW0uqQEQAFESRUUmvBAuldsKv5WPHlBf79ngGJnq8m1793m1Yd6TavWch8Jv44VTfufMxae6ftH+xicflhqTfs+Lrcj2blzgaQBQERduc0kNgACIkigqM+WFcKlZTU1lmrKbqO20KEhKjEk1/hJ1L3Qf4WHA9fM8DQAq48ZtLqkBEABREkWFJr0UcCJBrYgSY9InRqJ+hz47IusGenmPVMiV21xSAyAAoiSKSk1zG9ctrJnzcNiY1L+QqN+hkmMlv0O1C728Ryrlzm0uqQEQAFESRZtNcBvXLax8+d6wMalz0YviI9QZ6eU9zhrdVVXLCLIbTPocCIAoiaLtpriN6xao87DEmDSykKjf2fbuNE86G88G2taN22DS50AAREkUbTjJbVy3QOP4kZN5KhrPjxdUdLTkd3Z98LLn90kbu3IbTPocCIAoiaItp7mN6xbentSvzPyBRE3NjSxASiMPXt8nbe3ObTDpcyAAYiBr5qjkWBFIcwYiA2DBWVbzVRbU81/yGzQi4PV9FjTPYTeY9DkQADGQNW1YR3bzuoXIqr60HVgifoNmI5b8Bu1a5PU9dmtbk91g0udAAMRA1uTB+ezGdQvHv9xVuiLwpZEJ+Y0jEYuOaC2B1/fYp6Auu8Gkz4EAiIGs8be0ZzeuW6Apxok2Z2TpcNqt2Ot7HFDYgN1g0udAAMRA1qj+rdmN6xYO7fogbE5a7ef2+ec/0b9MP8O8x67z/B4H9WrCbjDpcyAAYiBr6DUt2I3rFmh1XmkP/bSEzgKkpcheLQOOxN19W7IbTPocCIAYyBrUswm7cd0C7TYcyyw9Gjr8avcap2jIxvlT1PIZw864HwAVHaEOv8jdg6kuAcc9jumPFYESAeBeWl7fpQG7cd1C5JLgfZsWVfj3cx7ooT6aNc4p/RU5gkBvdyoQSlWBCDSx6NQ6BZsWPMVyjxNubc/+hpU+B1oAMZDVOz95VgRuX/Zi3G9oqki08k+/d1YSllegpKRICVUP4rjHKYPz2Q0mfQ4EQAxkFbVJnhWBkd/oR/Zvifs8VCiUAuRsNQNXvfYA2z2+MLwTu8Gkz4EAiIGs/GbV2Y3rFta/VbpLMG3zVZlzUYuAlhWfWmPwo1fHsN7jzFGFKtMHJpM+BgIgBrJobjm3cd1Cmbr93x+udPWh918cGj7f0QPbEja7MFbkZqWzm0z6GAiAGMii1WXcgnYLK1+5r8wbm3r5K3fOInVwx3JnSNGLst/Rov6FIXaTSR8DARADWTWqVWUXtFtYPv2eMgFA3/Lc15QItMzLYjeZ9DEQADGQlRkKqlmjC9lF7XZREAKN63NfUyLQoSlWBEoEgHuJOX3E5eyidgOLnxlYJgDWzh3Pfk2JQGGbGuxvWeljoAUQI2FP35kcKwIXTrmpTABwbOHtBa66tA67yaSPgQCIkbCJA5NjRSAtzokMANp4hPuaEoHrOtdnN5n0MRAAMRI2dkBbdlG7ASoDFp4H8O0etXSqP4bt3MatPRqzm0z6GAiAGAkb1q8Vu6jdwOyxRc4EINrNl5bucl9PonBHb2wSKhEA7iUm7TrLLWq34Kfx+kRh8NUIAIkAcC8AbixqyC5qIHoObsEngEIAuBgAfS+rBwNqFEIYBRAIADcDoMfFtdhFDUTPQbM6kr2jTfoY6ASMkbCOLXJhQE1CiDYIpdmb3CaTPgYCIEbC2jZMnhWByY47r27ObjDpcyAAYiSsce3kWRGYzKA1G/SsuA0mfQ4EQIyE5SbRHoHJjHt/exG7uaQGQADEQdrzdyfPFmHJiBdHdFJ1qlvs5pIaAAEQB2kjr02O2YDJistbXchuLKkJEABxkNa9XU12kQOnczBrdFf1m4557KaSGgEBEAdp1TPTnSEmmNA/QfTq6ELV65La7IaSmgEBECdxtPEkt+iBYg5o1+Z2jbLZzSQ1BAIgTuKyM9KcjSdgQr4goupMtFsTPQtuI0lNgQCoBHkXN85OmhqBumDq0MvUiGtbOpu05EgYXyIAeBP0yg51nM4nbmPo+ganEmtUZYkKrVCtBVpuTSsuadFV94trOVOvafZlk1o2DG+hBeBL9O2Yx24mLswc1UVNG9bR+Q4ff0t7Nap/a2cb9YE9mzjNc9pPkd7W+c1znI1VaG8FKq/O/cwAgU8AN0VAY880AYXbkPHiT7/voqbd00k9eUexkUf3b6Pu7ttS3dazqRrQtaG6pqD0jUwdbk1rS2eyDRbbCK3DBH0ALpJZt7ql7rvuItZPAhqefGZIgZo08BI17oY2avjJZvVN3Ro5LZUe7Wupji1LTVw7x0QnmsVvRARAEoG+V4f0aa7+OLJznM3qQvXCsE7OKAPtcT/m5Nt4UK8mzvBjn4K6qlvbmqrgZLO6US1b1cw28Tb2wbOXmgEtgASSS83jZnUzne/gW69orAb3buaAKtVSuWqqVkMbV1zSJMfZwor2scNmlvymkCkEBIAPHgIADiQCACJAEEADEi0AiABBAA1IfAJABAgCaECiDwAiQBBAAxKdgBABggAakBgFgAgQBNCAxDAgRIAggAYk5gFABAgCaEBiIhBEgCCABiRmAkIECAJoQGIqMESAIIAGJNYCQAQIAmhAYjEQRIAggAYkVgNCBAgCaECWLAe2TfEjBAFBQAMi5TiwTfFvCoBj3BcCgANoQHjPgSmOBKRp7Af5MCA0IFKPA1PspQDYwX4hADiABpTXHNimsS1gm8YakA8DQgMiBTkwVlFNwCX8FwKAA2hAeh8AiwLSFM9BfBAfNCBSjgPbMp4NSMu4i/tCAHAADQiGABCDA5lVg11BPgwIDYiU4yDDDHYOVDOrXMh9IQA4gAaE5xyEQkZOIBAInEszgvAAYEJoQKQMB7Zp/Iu8TwEQsC2xmfuCAHAADQgvOdjomN8JAFM8BvJhQGhApAwHtiUmhgNAhkQR9wUB4AAaEJ5xkFE12CUcAOnp6edLS5zAA4AJoQGRChycIM+HA+DkZ8A6H1wYAA6gASvRHBirypi/OACMByE+iA8aEEnPgW0a958WAKFQMI/7wgBwAA2IhHMQCgXrnxYAJ4cDt+ABwITQgEhmDjac0fzOaADWBXA/HAAcqERyYFcVd5w1AEKh8yyMBsCEMKFIVg5OWNZ5obMGQPFngLHQBxcKgANowHL57W8a88o1/8nPgAKID+KDBkTScZAZMjpUGAAnWwGruS8WAAfQgHDz7b82KvM7rYCQ6AbyYUBoQCTn1N8ojnOkJTZxXzQADqABUfm3vyW2kKdjCYBApmn0BvkwIDQgtOfAtowrYjJ/SSvANsVy7osHwAE0ICrBgbEi5rd/yZGRkVbPtsR/8ABgQmhAaMcB7fuZkZFWN1CZgwoHcN8IAA6gARE7B6bxUKXM7wSAbf9KmmIfHgBMCA0IfTgwjQOhUOi8gBvHydLhP7PfFAAOoAEVBQc/OyW/3TxsUzwK8mFAaEDowMGEQAKOX2CGIPuDBcCBKo8DquzVLBD4ZSICICCDwWq2KY7iIcCI0IDwHQe2JY5nZIgLEmL+cAhYoru0xH+5bxYAB9CAiOTgp8yqwcKEmr80BIK3gnwYEBoQvuHANsXtAS8P2zTGcd80AA6gAUEcjA5wHNIypuABwITQgOB8808NMB7n2paYDQEgBKABwWH+18IbfLKGgGn8AQJACEADwjvzW2I6Dc0H/HLYpjEcAkAIQANC24k+lT6kKQZhiBAhgBAQieLgJxqBC/j5oHJitimOQQQIAmhAuPm9f9SzcX43ZgzSBoQQAEIAGhCV58AU60Mho3pAs+MXtmmMxScBQgAhIOLl4GdpGZMTNrffi4OaLbQ2GSJAEEADIoa3vrHf9SW9XAcVFaHWgG2Kf0MECAJoQJQ3vPcfeuubpvnrQLIdmVXPryktsRQCQAhAA+IMHBgrQqFgXiDZjwzT6GVbYjNEgCCABgRxsCne0t1aH7YZbGeb4n2IAEGQihqwaQu+kOgWd9nuZDkyQ8altmnMx9bk/KIERKI5OEFaJ81z+853R1ZWlTTbMm7GHAIYMemCyDR20XR5yzovxO0zLQ7qDLFN437bNNagZeADAQMq5je9Zaymuhm0wQ63n7Q+0tPTz6f5BCcrE2/EcCIM6bdAsouHuDfYlphEWk3KYTwfHedalpFLEyVsy7izeDmysdhJXMvYKk2xh9Yj0NZI3MIA9ObANsWPztoW0hRpy5ni7mjtWdsSg0mDJ6fp/g+3KeI5/h9T7omA40xkngAAAABJRU5ErkJggg==",
+      "archive": {
+        "url": "https://github.com/a13188087907/bookmate/releases/download/v1.2.4/app-bookmate-1.2.4.zip",
+        "sha256": "3bcb7390ea6fc2a1d8d3ea119be5a43920edb1847854ca1901f487e8b9a17ab6",
+        "size": 4061207,
+        "format": "zip"
+      },
+      "repository": "https://github.com/a13188087907/bookmate",
+      "readmeUrl": "https://raw.githubusercontent.com/a13188087907/bookmate/v1.2.4/README.md",
+      "stats": {
+        "downloads": 5
       }
     },
     {
@@ -310,7 +350,7 @@
       ],
       "readmeUrl": "https://raw.githubusercontent.com/Nyasers/DSHana/v1.0.4%2Bdsh-0.2.0-rc.2/README.md",
       "stats": {
-        "downloads": 101
+        "downloads": 104
       }
     },
     {
@@ -549,7 +589,7 @@
       ],
       "readmeUrl": "https://raw.githubusercontent.com/139zbc/HanaAgent-plugins-HanaExcalidraw/v1.1.1/README.md",
       "stats": {
-        "downloads": 108
+        "downloads": 111
       }
     },
     {
@@ -583,7 +623,7 @@
       "repository": "https://github.com/SeptTpes/hana-powercontext",
       "readmeUrl": "https://raw.githubusercontent.com/SeptTpes/hana-powercontext/v1.0.1/README.md",
       "stats": {
-        "downloads": 5
+        "downloads": 7
       }
     },
     {
@@ -617,7 +657,7 @@
       "repository": "https://github.com/zhang8019/hana-vault-app",
       "readmeUrl": "https://raw.githubusercontent.com/zhang8019/hana-vault-app/v0.2.0/README.md",
       "stats": {
-        "downloads": 4
+        "downloads": 7
       }
     },
     {
@@ -795,7 +835,7 @@
       "repository": "https://github.com/Doubi250/hana-app-minimax-video",
       "readmeUrl": "https://raw.githubusercontent.com/Doubi250/hana-app-minimax-video/v0.1.7/README.md",
       "stats": {
-        "downloads": 6
+        "downloads": 9
       }
     },
     {
@@ -826,7 +866,7 @@
       "repository": "https://github.com/zhang8019/hana-office-toolkit",
       "readmeUrl": "https://raw.githubusercontent.com/zhang8019/hana-office-toolkit/v0.10.1/README.md",
       "stats": {
-        "downloads": 1
+        "downloads": 3
       }
     },
     {
@@ -912,7 +952,7 @@
       "repository": "https://github.com/n3ko3n/HanaAgent-prompt-studio",
       "readmeUrl": "https://raw.githubusercontent.com/n3ko3n/HanaAgent-prompt-studio/v0.4.3/README.md",
       "stats": {
-        "downloads": 4
+        "downloads": 6
       }
     },
     {
@@ -973,7 +1013,7 @@
       ],
       "readmeUrl": "https://raw.githubusercontent.com/youyongdemao/HanaAgent-session-insight/v2.1.2/README.md",
       "stats": {
-        "downloads": 497
+        "downloads": 500
       }
     },
     {
@@ -1181,7 +1221,7 @@
       "repository": "https://github.com/givfei5-hash/openhanako-voiceloop-app",
       "readmeUrl": "https://raw.githubusercontent.com/givfei5-hash/openhanako-voiceloop-app/v2.2.4/README.md",
       "stats": {
-        "downloads": 2
+        "downloads": 5
       }
     },
     {
