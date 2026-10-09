@@ -396,6 +396,66 @@
       "id": "zhipu-zread",
       "tag": "v2026.10.09",
       "sha256": "992d08b5af62d62fcc17c32a282f49fe2679bfb40fc12632dcf72a4853aa55f8"
+    },
+    {
+      "kind": "connector",
+      "id": "tencent-map",
+      "tag": "v2026.10.10",
+      "sha256": "8d65fe0701a56260fc3a038001ca1d24da450f04a2994a239ad3f9267ed972ff"
+    },
+    {
+      "kind": "connector",
+      "id": "amap",
+      "tag": "v2026.10.10",
+      "sha256": "33a3d4f56be7c435ad86e90f5f9cb09335fd540c840b165ab6002a550965273f"
+    },
+    {
+      "kind": "connector",
+      "id": "baidu-map",
+      "tag": "v2026.10.10",
+      "sha256": "7fbc5501e3d6944212da664acda1f3650ac3b5b89df5ad45d452ba9868b81b5d"
+    },
+    {
+      "kind": "connector",
+      "id": "baidu-ai-search",
+      "tag": "v2026.10.10",
+      "sha256": "a14ecda1b3bafea5626659d476ea3e6458a968c55c2b27965df05443a3e69d3a"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-docs",
+      "tag": "v2026.10.10",
+      "sha256": "de3a7f00cfb6cf988b285373d23080fc49b8a11bd6481c6c772a63c2d6ad73ce"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-calendar",
+      "tag": "v2026.10.10",
+      "sha256": "7f6b90257f0c7d8192fd5453c495e66bf99a0c49fb8469b115abe1ebcbf60ca8"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-todo",
+      "tag": "v2026.10.10",
+      "sha256": "3eb08df5791254ae5360ae9f2dd23694c7d8180c7314ae21baf015bccca5b401"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-contacts",
+      "tag": "v2026.10.10",
+      "sha256": "463672dc086337dcda3ef9931c362fbb797f2e3e645671424bf308428a2bc766"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-ai-table",
+      "tag": "v2026.10.10",
+      "sha256": "d3f7ae7b65d7b58c539c65ecd82a83442592d2f86f1528ec4927e8119e6108b0"
+    },
+    {
+      "kind": "connector",
+      "id": "modelscope",
+      "tag": "v2026.10.10",
+      "sha256": "f5560cea71f58b0ff84d6ebdc1b03af77e7c182d2ea175af1386cfef9bc5ca8b"
     }
   ]
 }

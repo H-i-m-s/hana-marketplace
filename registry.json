@@ -396,6 +396,66 @@
       "id": "zhipu-zread",
       "repository": "liliMozi/hana-connectors",
       "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "tencent-map",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "amap",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "baidu-map",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "baidu-ai-search",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-docs",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-calendar",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-todo",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-contacts",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "dingtalk-ai-table",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
+    },
+    {
+      "kind": "connector",
+      "id": "modelscope",
+      "repository": "liliMozi/hana-connectors",
+      "publisher": "liliMozi"
     }
   ]
 }
