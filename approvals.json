@@ -136,8 +136,8 @@
     {
       "kind": "app",
       "id": "office-toolkit",
-      "tag": "v0.9.0",
-      "sha256": "7472c1f680ace433788dafe843cd59c6530281a46b8126897cb7f3b1d8de51cd"
+      "tag": "v0.10.0",
+      "sha256": "7d0d8388b63ab01c33e5a9facbf7ba6019e52246e9a5d33f33bfeae14ff96c60"
     }
   ]
 }
