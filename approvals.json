@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "tag": "v0.5.1",
       "sha256": "3adaf99b1c28756b22fbdf1e1554e8b7e0a39ab2f4b132c81197d7307ba311c0"
+    },
+    {
+      "kind": "app",
+      "id": "hana-powercontext",
+      "tag": "v1.0.1",
+      "sha256": "5cdf103ebf8fa25cc4f05938c51a05d471a36fe7459b948afa8aca4c02a1ab92"
     }
   ]
 }
