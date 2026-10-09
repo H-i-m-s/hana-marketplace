@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "repository": "hayou2002/hana-vibecoding",
       "publisher": "hayou2002"
+    },
+    {
+      "kind": "app",
+      "id": "minimax-video",
+      "repository": "Doubi250/hana-app-minimax-video",
+      "publisher": "Doubi250"
     }
   ]
 }

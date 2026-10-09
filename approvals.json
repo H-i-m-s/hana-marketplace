@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "tag": "v0.5.1",
       "sha256": "3adaf99b1c28756b22fbdf1e1554e8b7e0a39ab2f4b132c81197d7307ba311c0"
+    },
+    {
+      "kind": "app",
+      "id": "minimax-video",
+      "tag": "v0.1.7",
+      "sha256": "970b84b36b3c4fcb5c34745f014600849fa7a1d43243f93f020448cf722a1c9d"
     }
   ]
 }
