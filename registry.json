@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "repository": "hayou2002/hana-vibecoding",
       "publisher": "hayou2002"
+    },
+    {
+      "kind": "app",
+      "id": "prompt-studio",
+      "repository": "n3ko3n/HanaAgent-prompt-studio",
+      "publisher": "n3ko3n"
     }
   ]
 }

@@ -132,6 +132,12 @@
       "id": "hana-vibecoding",
       "tag": "v0.5.1",
       "sha256": "3adaf99b1c28756b22fbdf1e1554e8b7e0a39ab2f4b132c81197d7307ba311c0"
+    },
+    {
+      "kind": "app",
+      "id": "prompt-studio",
+      "tag": "v0.4.2",
+      "sha256": "174b02a3b7ac086c9bbcb43d6fcca7b8fa2b7e253381f195b4cbf2ac8bf770d1"
     }
   ]
 }
